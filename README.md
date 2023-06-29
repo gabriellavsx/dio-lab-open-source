@@ -14,7 +14,7 @@ Aprender o básico sobre contribuição no GitHub.
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![GitHub Desktop]([https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F](https://img.shields.io/badge/GitHubDesktop-000?style=for-the-badge&logo=github&logoColor=30A3DC))](https://docs.github.com/pt/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) 
+[![GitHub Desktop](https://img.shields.io/badge/GitHubDesktop-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/pt/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
 ## Percurso
